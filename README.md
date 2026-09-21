@@ -1,7 +1,7 @@
 # Pattern Recognition Assignment
 **Text Pattern Recognition: From String Matching to Text Classification**
 
-**Author:** Arya Jason Ramadhanto (24/536944/PA/22780)
+Arya Jason Ramadhanto (24/536944/PA/22780)
 
 ## Environment Setup
 * **Dataset Used:** [SMS Spam Collection Dataset (UCI/Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
